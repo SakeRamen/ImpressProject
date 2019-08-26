@@ -9,6 +9,7 @@ body{
 	line-height: 1.5;
 	opacity: 0.3;
 	transition: opacity 1s;
+	box-shadow: rgba(0, 0, 0, 0.2);
 }
 
 .step.active{
